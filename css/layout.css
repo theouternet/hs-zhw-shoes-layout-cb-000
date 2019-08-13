@@ -28,19 +28,15 @@
   float: left;
   width: 32%;
   background: #fff;
-  padding: 20px;
 }
 
 .col-2 {
   float: left;
   width: 66%;
   background: #fff;
-  padding: 20px;
 }
 
 .col-3 {
-  background: #fff;
-  padding: 20px;
 }
 
 .clearfix:after {
