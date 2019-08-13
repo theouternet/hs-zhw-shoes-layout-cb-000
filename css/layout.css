@@ -39,6 +39,10 @@
 .col-3 {
 }
 
+.dates {
+  float: right;
+}
+
 .clearfix:after {
   content: ".";
   display: block;
