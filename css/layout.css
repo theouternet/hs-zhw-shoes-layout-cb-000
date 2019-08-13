@@ -49,7 +49,7 @@
   clear: both;
   visibility: hidden;
   height: 0;
-  line-height: -;
+  line-height: 0;
 }
 
 [class*"col-"] {
