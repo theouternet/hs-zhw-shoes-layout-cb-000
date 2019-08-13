@@ -70,6 +70,7 @@
 }
 
 section {
-  padding: 20px;
-  margin-bottom: 20px;
+  -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+  -moz-column-gap: 40px; /* Firefox */
+  column-gap: 40px;
 }
