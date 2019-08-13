@@ -27,29 +27,20 @@
 .col-1 {
   float: left;
   width: 32%;
-    background: #fff;
-<<<<<<< HEAD
-=======
-      padding: 20px;
->>>>>>> d1b171d85275c76aa0abaa28d910dceb67f55de4
+  background: #fff;
+  padding: 20px;
 }
 
 .col-2 {
   float: left;
   width: 66%;
-    background: #fff;
-<<<<<<< HEAD
-=======
-      padding: 20px;
->>>>>>> d1b171d85275c76aa0abaa28d910dceb67f55de4
+  background: #fff;
+  padding: 20px;
 }
 
 .col-3 {
   background: #fff;
-<<<<<<< HEAD
-=======
-    padding: 20px;
->>>>>>> d1b171d85275c76aa0abaa28d910dceb67f55de4
+  padding: 20px;
 }
 
 .clearfix:after {
